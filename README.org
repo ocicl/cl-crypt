@@ -2,9 +2,8 @@
 
 Common-Lisp implementation of unix crypt function
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/renard/cl-crypt.git   |
-| commit  | 4e8603d  |
-| systems | cl-crypt |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------|
+| source  | git:https://github.com/renard/cl-crypt.git |
+| commit  | 4e8603d                                    |
+| systems | (crypt)                                    |
+|---------+--------------------------------------------|
